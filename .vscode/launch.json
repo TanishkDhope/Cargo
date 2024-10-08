@@ -1,0 +1,85 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BookingConfirmationPage",
+            "request": "launch",
+            "mainClass": "Application.BookingConfirmationPage",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "AdminDashboard",
+            "request": "launch",
+            "mainClass": "Application.AdminDashboard",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Application.App",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "LoginPage",
+            "request": "launch",
+            "mainClass": "LoginPage",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "AdminDashboard",
+            "request": "launch",
+            "mainClass": "AdminDashboard",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "TestFX",
+            "request": "launch",
+            "mainClass": "TestFX",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "ZoomCarUi",
+            "request": "launch",
+            "mainClass": "ZoomCarUi",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "DatabaseConnector",
+            "request": "launch",
+            "mainClass": "DatabaseConnector",
+            "projectName": "CarRental_da8b66a8"
+        },
+        {
+            "type": "java",
+            "name": "ZoomcarUI",
+            "request": "launch",
+            "mainClass": "ZoomcarUI",
+            "projectName": "CarRental_da8b66a8",
+            "vmArgs": "--module-path C:/Users/Tanishk/Downloads/openjfx-23_windows-x64_bin-sdk/javafx-sdk-23/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

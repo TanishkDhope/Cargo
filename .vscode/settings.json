@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c://Program Files (x86)//MySQL//mysql-connector-j-9.0.0//mysql-connector-j-9.0.0.jar",
+        "c://Users//Tanishk//Downloads//openjfx-23_windows-x64_bin-sdk//javafx-sdk-23//lib//javafx.base.jar",
+        "c://Users//Tanishk//Downloads//openjfx-23_windows-x64_bin-sdk//javafx-sdk-23//lib//javafx.controls.jar",
+        "c://Users//Tanishk//Downloads//openjfx-23_windows-x64_bin-sdk//javafx-sdk-23//lib//javafx.fxml.jar",
+        "c://Users//Tanishk//Downloads//openjfx-23_windows-x64_bin-sdk//javafx-sdk-23//lib//javafx.graphics.jar",
+        "c://Users//Tanishk//Downloads//openjfx-23_windows-x64_bin-sdk//javafx-sdk-23//lib//javafx.media.jar",
+        "c://Users//Tanishk//Downloads//openjfx-23_windows-x64_bin-sdk//javafx-sdk-23//lib//javafx.swing.jar",
+        "c://Users//Tanishk//Downloads//openjfx-23_windows-x64_bin-sdk//javafx-sdk-23//lib//javafx.web.jar",
+        "c://Users//Tanishk//Downloads//openjfx-23_windows-x64_bin-sdk//javafx-sdk-23//lib//javafx-swt.jar"
+    ]
+}
